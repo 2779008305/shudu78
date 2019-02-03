@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://125.88.181.106:7080/download/phone/Enterprise/GamePlaza/GamePlaza.ipa</string>
+					<string>http://183.60.202.137:7080/download/phone/Enterprise/GamePlaza/GamePlaza.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://125.88.181.106:7080/download/phone/Enterprise/GamePlaza/Icon-57.png</string>
+					<string>http://183.60.202.137:7080/download/phone/Enterprise/GamePlaza/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://125.88.181.106:7080/download/phone/Enterprise/GamePlaza/Icon-512.png</string>
+					<string>http://183.60.202.137:7080/download/phone/Enterprise/GamePlaza/Icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
